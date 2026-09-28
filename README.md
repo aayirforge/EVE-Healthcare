@@ -22,7 +22,7 @@ You can run the project either using **Docker** (recommended for zero manual set
 
 1. **Clone the repository:**
    ```bash
-   git clone <repo-url>
+   git clone <https://github.com/aayirforge/EVE-Healthcare.git>
    cd EVE-Healthcare
    ```
 
